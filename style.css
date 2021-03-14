@@ -1,0 +1,87 @@
+/* Navbar */
+.navbar{
+    background-color: #47B785;
+}
+
+/* Body */
+.text-1{
+    color: #263238;
+}
+
+/* Jumbotron */
+.jumbotron{
+    padding-top: 300px;
+    padding-bottom: 270px;
+    background-color: #47B785;
+    color: #fff !important;
+}
+
+.row{
+    --bs-gutter-x: 0;
+}
+
+/* About Us */
+.about-us{
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+/* Features */
+.features{
+    background-color: #DEF6E5;
+    padding-top: 180px;
+    padding-bottom: 135px;
+}
+
+.img-features{
+    height: 48px;
+}
+
+/* Portfolio */
+.portfolio{
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+.img-jmb{
+    max-height: 500px;
+}
+
+/* Order Now */
+.order-now{
+    padding-top: 150px;
+    padding-bottom: 250px;
+}
+
+.card{
+    background-color: #DEF6E5;;
+}
+
+.btn1{
+    background-color: #47B785;
+}
+
+.btn1:hover{
+    color: #F1EFEF;
+    background-color: #3DAB7A;
+}
+
+/* Contact Us */
+.contact{
+    padding-top: 210px;
+    padding-bottom: 210px;
+    background-color: #DEF6E5;
+}
+
+.form-outline{
+    background-color: #fff;
+}
+
+/* Footer */
+.footer{
+    background-color: #263238;
+}
+
+.footer-cpr:hover{
+    opacity: 75%;
+}
